@@ -70,7 +70,7 @@
     },
     {
       "id": "0e6aa55c-9ebe-48c0-84c7-e0d27b14ea7d",
-      "status": "scheduled",
+      "status": "closed",
       "coverage": "full",
       "game_number": 1,
       "day_night": "N",
@@ -193,7 +193,7 @@
     },
     {
       "id": "14f610ae-595d-492d-8e8a-269e2f869446",
-      "status": "scheduled",
+      "status": "closed",
       "coverage": "full",
       "game_number": 1,
       "day_night": "D",
