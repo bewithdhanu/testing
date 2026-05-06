@@ -39,7 +39,8 @@
         "abbr": "NYY",
         "id": "a09ec676-f887-43dc-bbb3-cf4bbaee9a18",
         "win": 24,
-        "loss": 11
+        "loss": 11,
+        "runs": 4
       },
       "away": {
         "name": "Rangers",
@@ -47,7 +48,8 @@
         "abbr": "TEX",
         "id": "d99f919b-1534-4516-8e8a-9cd106c6d8cd",
         "win": 16,
-        "loss": 18
+        "loss": 18,
+        "runs": 3
       },
       "broadcasts": [
         {
@@ -106,7 +108,8 @@
         "abbr": "CHC",
         "id": "55714da8-fcaf-4574-8443-59bfb511a524",
         "win": 23,
-        "loss": 12
+        "loss": 12,
+        "runs": 6
       },
       "away": {
         "name": "Reds",
@@ -114,7 +117,8 @@
         "abbr": "CIN",
         "id": "c874a065-c115-4e7d-b0f0-235584fb0e6f",
         "win": 20,
-        "loss": 15
+        "loss": 15,
+        "runs": 3
       },
       "broadcasts": [
         {
@@ -229,7 +233,8 @@
         "abbr": "SF",
         "id": "a7723160-10b7-4277-a309-d8dd95a8ae65",
         "win": 14,
-        "loss": 21
+        "loss": 21,
+        "runs": 7
       },
       "away": {
         "name": "Padres",
@@ -237,7 +242,8 @@
         "abbr": "SD",
         "id": "d52d5339-cbdd-43f3-9dfa-a42fd588b9a3",
         "win": 20,
-        "loss": 14
+        "loss": 14,
+        "runs": 6
       },
       "broadcasts": [
         {
@@ -909,7 +915,8 @@
         "abbr": "WSH",
         "id": "d89bed32-3aee-4407-99e3-4103641b999a",
         "win": 16,
-        "loss": 19
+        "loss": 19,
+        "runs": 7
       },
       "away": {
         "name": "Twins",
@@ -917,7 +924,8 @@
         "abbr": "MIN",
         "id": "aa34e0ed-f342-4ec6-b774-c79b47b60e2d",
         "win": 15,
-        "loss": 20
+        "loss": 20,
+        "runs": 3
       },
       "broadcasts": [
         {
